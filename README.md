@@ -66,3 +66,5 @@ Pythonの実装理由は　個人でのキャッチアップが進んでいる�
 - VCS: GitHub
 - CI/CD: GitHubActions
 - Python3系
+## 画面遷移図
+https://www.figma.com/file/WtDjdmt6RITE2ngfiHgcmS/%E7%94%BB%E9%9D%A2%E9%81%B7%E7%A7%BB%E5%9B%B3?type=design&node-id=0-1&mode=design&t=CnoeEaeZb8UO9FfM-0
