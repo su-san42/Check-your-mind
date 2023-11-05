@@ -67,6 +67,6 @@ Pythonの実装理由は　個人でのキャッチアップが進んでいる�
 - CI/CD: GitHubActions
 - Python3系
 ## 画面遷移図
-https://www.figma.com/file/WtDjdmt6RITE2ngfiHgcmS/%E7%94%BB%E9%9D%A2%E9%81%B7%E7%A7%BB%E5%9B%B3?type=design&node-id=0%3A1&mode=design&t=CnoeEaeZb8UO9FfM-1
+https://www.figma.com/file/nEeMw5tlHjRQAQNUEfKUuU/%E7%94%BB%E9%9D%A2%E9%81%B7%E7%A7%BB%E5%9B%B3-2023%2F11%2F5?type=design&mode=design&t=PxHlDv1wnYubPopw-1
 ## ER図
 ![Service Smiles drawio](https://github.com/su-san42/ServiceSmiles/assets/123942510/e8526576-6efe-4068-a55e-b998353f539a)
