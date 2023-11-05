@@ -66,3 +66,4 @@ Pythonの実装理由は　個人でのキャッチアップが進んでいる�
 - VCS: GitHub
 - CI/CD: GitHubActions
 - Python3系
+
