@@ -1,4 +1,4 @@
-# ServiceSmiles
+# サービス名：ServiceSmiles
 
 ## サービス概要
 接客ロールプレイングコンテストを通じて飲食店の接客や
