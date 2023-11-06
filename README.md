@@ -59,7 +59,7 @@ Pythonの実装理由は　個人でのキャッチアップが進んでいる�
 
 ## 開発環境(想定)
 - 開発環境：Docker
-- インフラ：Heroku
+-インフラ：Heroku
 - Rails 7系
 - Ruby 3.2.2
 - フロントエンド:Hotwire
@@ -77,4 +77,3 @@ Pythonの実装理由は　個人でのキャッチアップが進んでいる�
 https://www.figma.com/file/WtDjdmt6RITE2ngfiHgcmS/%E7%94%BB%E9%9D%A2%E9%81%B7%E7%A7%BB%E5%9B%B3?type=design&node-id=0%3A1&mode=design&t=aRgmsiSVwKsviMmO-1
 
 ## ER図
-https://app.diagrams.net/?src=about
