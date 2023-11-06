@@ -56,13 +56,11 @@ Pythonの実装理由は　個人でのキャッチアップが進んでいる�
 
 ## 開発環境(想定)
 - Docker
-- Rails ６系
+- Rails 7系
 - Ruby 3.2.2
-- フロントエンド:React
-- CSSフレームワーク: bootstrap5系
-- WebAPI:
-- YouTube API ,
-- その他：Chat GPT
+- フロントエンド:Heroku
+- CSSフレームワーク: Hotwire
+- YouTube API・Cha
 - VCS: GitHub
 - CI/CD: GitHubActions
 - Python3系
