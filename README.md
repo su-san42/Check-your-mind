@@ -59,7 +59,7 @@ Pythonの実装理由は　個人でのキャッチアップが進んでいる�
 
 ## 開発環境(想定)
 - 開発環境：Docker
--インフラ：Heroku
+- インフラ：Heroku
 - Rails 7系
 - Ruby 3.2.2
 - フロントエンド:Hotwire
