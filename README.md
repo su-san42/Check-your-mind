@@ -58,16 +58,16 @@ Pythonの実装理由は　個人でのキャッチアップが進んでいる�
 
 ## 開発環境(想定)
 - Docker
-- Rails ６系
+- Rails ７系
 - Ruby 3.2.2
-- フロントエンド:React
-- CSSフレームワーク: bootstrap5系
-- WebAPI:
-- YouTube API ,
-- その他：Chat GPT
+- フロントエンド:Hotwire
+- CSSフレームワーク:Tailwind
+- 使用：API
+- YouTube API 
+- Chat GPT
 - VCS: GitHub
 - CI/CD: GitHubActions
-- Python3系
+- Python3系（レコメンド機能）
 
 * 競技タイマー　（5分タイマー・残り1分になるとベルが１回なり、終了時に２回なるようにする）
 
