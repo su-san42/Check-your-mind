@@ -92,9 +92,12 @@ Pythonの実装理由は　個人でのキャッチアップが進んでいる�
 - Ruby 3.2.2
 - フロントエンド:Hotwire
 - CSSフレームワーク:Tailwind　css
+<<<<<<< HEAD
 
 -Python環境について
 -Python: 3.9.6
+=======
+>>>>>>> origin/main
 -使用API
 - YouTube API ,
 - Chat GPT　API
@@ -102,7 +105,11 @@ Pythonの実装理由は　個人でのキャッチアップが進んでいる�
 - CI/CD: GitHubActions
 - Python3系（レコメンド機能）
 - セッション管理：Redis
+<<<<<<< HEAD
 - データベース：Mysql
+=======
+- データベース：PostgreSQL
+>>>>>>> origin/main
 
 ## 画面遷移図
 https://www.figma.com/file/WtDjdmt6RITE2ngfiHgcmS/%E7%94%BB%E9%9D%A2%E9%81%B7%E7%A7%BB%E5%9B%B3?type=design&node-id=0%3A1&mode=design&t=aRgmsiSVwKsviMmO-1
