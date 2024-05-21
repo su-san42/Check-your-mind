@@ -1,0 +1,18 @@
+current directory: /Users/su-san/ServiceSmiles/ServiceSmailes/vendor/bundle/ruby/3.1.0/gems/bindex-0.8.1/ext/skiptrace
+/Users/su-san/.rbenv/versions/3.1.0/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/su-san/ServiceSmiles/ServiceSmailes/vendor/bundle/ruby/3.1.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20240519-3419-qzmgq7 sitelibdir\=./.gem.20240519-3419-qzmgq7 clean
+
+current directory: /Users/su-san/ServiceSmiles/ServiceSmailes/vendor/bundle/ruby/3.1.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20240519-3419-qzmgq7 sitelibdir\=./.gem.20240519-3419-qzmgq7
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.bundle
+
+current directory: /Users/su-san/ServiceSmiles/ServiceSmailes/vendor/bundle/ruby/3.1.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20240519-3419-qzmgq7 sitelibdir\=./.gem.20240519-3419-qzmgq7 install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20240519-3419-qzmgq7/skiptrace/internal
+
+current directory: /Users/su-san/ServiceSmiles/ServiceSmailes/vendor/bundle/ruby/3.1.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20240519-3419-qzmgq7 sitelibdir\=./.gem.20240519-3419-qzmgq7 clean

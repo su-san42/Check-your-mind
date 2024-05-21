@@ -1,0 +1,20 @@
+current directory: /Users/su-san/ServiceSmiles/ServiceSmailes/vendor/bundle/ruby/3.1.0/gems/strscan-3.1.0/ext/strscan
+/Users/su-san/.rbenv/versions/3.1.0/bin/ruby extconf.rb
+checking for onig_region_memsize() in ruby.h... yes
+checking for rb_reg_onig_match() in ruby.h... no
+creating Makefile
+
+current directory: /Users/su-san/ServiceSmiles/ServiceSmailes/vendor/bundle/ruby/3.1.0/gems/strscan-3.1.0/ext/strscan
+make DESTDIR\= sitearchdir\=./.gem.20240519-3419-9el91h sitelibdir\=./.gem.20240519-3419-9el91h clean
+
+current directory: /Users/su-san/ServiceSmiles/ServiceSmailes/vendor/bundle/ruby/3.1.0/gems/strscan-3.1.0/ext/strscan
+make DESTDIR\= sitearchdir\=./.gem.20240519-3419-9el91h sitelibdir\=./.gem.20240519-3419-9el91h
+compiling strscan.c
+linking shared-object strscan.bundle
+
+current directory: /Users/su-san/ServiceSmiles/ServiceSmailes/vendor/bundle/ruby/3.1.0/gems/strscan-3.1.0/ext/strscan
+make DESTDIR\= sitearchdir\=./.gem.20240519-3419-9el91h sitelibdir\=./.gem.20240519-3419-9el91h install
+/usr/bin/install -c -m 0755 strscan.bundle ./.gem.20240519-3419-9el91h
+
+current directory: /Users/su-san/ServiceSmiles/ServiceSmailes/vendor/bundle/ruby/3.1.0/gems/strscan-3.1.0/ext/strscan
+make DESTDIR\= sitearchdir\=./.gem.20240519-3419-9el91h sitelibdir\=./.gem.20240519-3419-9el91h clean

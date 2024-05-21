@@ -1,0 +1,22 @@
+default: &default
+  adapter: mysql2
+  encoding: utf8mb4
+  pool: <%= ENV.fetch("RAILS_MAX_THREADS") { 5 } %>
+  username: root
+  password: password
+  #　この部分はmysqlコンテナを指定
+  host: db
+  # portを指定しないとMySQL connectエラーになりdbを作成できない
+  port: 3306
+
+development:
+  <<: *default
+  database: servicesmile_app_development
+
+test:
+  <<: *default
+  database: servicesmile_app_test
+
+production:
+  <<: *default
+  url: <%= ENV['DATABASE_URL'] %>

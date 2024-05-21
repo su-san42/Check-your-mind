@@ -1,0 +1,18 @@
+current directory: /Users/su-san/ServiceSmiles/ServiceSmailes/vendor/bundle/ruby/3.1.0/gems/racc-1.7.3/ext/racc/cparse
+/Users/su-san/.rbenv/versions/3.1.0/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/su-san/ServiceSmiles/ServiceSmailes/vendor/bundle/ruby/3.1.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240519-3419-7rd2p0 sitelibdir\=./.gem.20240519-3419-7rd2p0 clean
+
+current directory: /Users/su-san/ServiceSmiles/ServiceSmailes/vendor/bundle/ruby/3.1.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240519-3419-7rd2p0 sitelibdir\=./.gem.20240519-3419-7rd2p0
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+
+current directory: /Users/su-san/ServiceSmiles/ServiceSmailes/vendor/bundle/ruby/3.1.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240519-3419-7rd2p0 sitelibdir\=./.gem.20240519-3419-7rd2p0 install
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20240519-3419-7rd2p0/racc
+
+current directory: /Users/su-san/ServiceSmiles/ServiceSmailes/vendor/bundle/ruby/3.1.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240519-3419-7rd2p0 sitelibdir\=./.gem.20240519-3419-7rd2p0 clean

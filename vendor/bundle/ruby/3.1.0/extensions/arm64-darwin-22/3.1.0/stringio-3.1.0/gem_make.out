@@ -1,0 +1,18 @@
+current directory: /Users/su-san/ServiceSmiles/ServiceSmailes/vendor/bundle/ruby/3.1.0/gems/stringio-3.1.0/ext/stringio
+/Users/su-san/.rbenv/versions/3.1.0/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/su-san/ServiceSmiles/ServiceSmailes/vendor/bundle/ruby/3.1.0/gems/stringio-3.1.0/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20240519-3419-5zi8eu sitelibdir\=./.gem.20240519-3419-5zi8eu clean
+
+current directory: /Users/su-san/ServiceSmiles/ServiceSmailes/vendor/bundle/ruby/3.1.0/gems/stringio-3.1.0/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20240519-3419-5zi8eu sitelibdir\=./.gem.20240519-3419-5zi8eu
+compiling stringio.c
+linking shared-object stringio.bundle
+
+current directory: /Users/su-san/ServiceSmiles/ServiceSmailes/vendor/bundle/ruby/3.1.0/gems/stringio-3.1.0/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20240519-3419-5zi8eu sitelibdir\=./.gem.20240519-3419-5zi8eu install
+/usr/bin/install -c -m 0755 stringio.bundle ./.gem.20240519-3419-5zi8eu
+
+current directory: /Users/su-san/ServiceSmiles/ServiceSmailes/vendor/bundle/ruby/3.1.0/gems/stringio-3.1.0/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20240519-3419-5zi8eu sitelibdir\=./.gem.20240519-3419-5zi8eu clean
